@@ -1,2 +1,1 @@
-# Hut-Linux
-Hut Linux- дистрибутив Linux основан на старых версий Debian, дистрибутив создан с целью переработки старой версии Debian. 
+#Hut Linux vesion 0.1
