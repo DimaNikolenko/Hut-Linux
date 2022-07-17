@@ -1,1 +1,1 @@
-#Hut Linux vesion 0.1
+# Hut Linux vesion 0.1
